@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br/>
   
    <img height="auto" src="https://github-readme-stats.vercel.app/api?username=jemportugal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img align="center" alt="avatar" height="190" style="border-radius:40%;" src="https://cdn.discordapp.com/attachments/981015431030652981/981015598014279720/avatar.gif">
+   <img align="center" alt="avatar" height="190" style="border-radius:40%;" src="https://cdn.discordapp.com/attachments/981015431030652981/981025580453609493/output_tADOSw.gif">
 
 </div>
 
