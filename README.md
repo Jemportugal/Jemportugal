@@ -17,5 +17,3 @@
 
 ![Avatar](https://cdn.discordapp.com/attachments/981015431030652981/981015598014279720/avatar.gif)
 
-<\center>
-
