@@ -4,9 +4,6 @@
 
 ##
 
-<div style="display: inline_block"><br>
-<img align="right" alt="Avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/981015431030652981/981015598014279720/avatar.gif">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemportugal&show_icons=true&theme=tokyonight)
 
 ### Dev em desenvolvimento.
@@ -17,3 +14,8 @@
 ![[REACT]](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ##
+
+![Avatar](https://cdn.discordapp.com/attachments/981015431030652981/981015598014279720/avatar.gif)
+
+<\center>
+
